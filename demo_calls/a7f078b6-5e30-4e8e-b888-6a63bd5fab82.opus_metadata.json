@@ -1,0 +1,57 @@
+{
+  "recordingId": "a7f078b6-5e30-4e8e-b888-6a63bd5fab82",
+  "conversationId": "aa6b0823-c1c2-4121-a39c-05124cbe5dcb",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Dahlgren VA",
+    "from": "tel:+15554286805",
+    "to": "tel:+15553329915",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 11:28:58 AM MDT",
+      "end": "Sep 22, 2025, 11:33:27 AM MDT",
+      "duration": "3m 59s",
+      "durationMs": 239320
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 11:28:57 AM MDT",
+      "end": "Sep 22, 2025, 11:34:57 AM MDT",
+      "duration": "5m 59s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T17:28:58.059+0000",
+      "recordingEnd": "2025-09-22T17:33:27.755+0000",
+      "conversationStart": "2025-09-22T17:28:57.953+0000",
+      "conversationEnd": "2025-09-22T17:34:57.704+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

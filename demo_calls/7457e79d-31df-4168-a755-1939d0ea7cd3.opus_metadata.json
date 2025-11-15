@@ -1,0 +1,66 @@
+{
+  "recordingId": "7457e79d-31df-4168-a755-1939d0ea7cd3",
+  "conversationId": "26b29c4a-6bab-4d13-9ddd-6eaf02daae77",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Columbia MD",
+    "from": "tel:+15559844062",
+    "to": "tel:+15555348428",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 11:14:05 AM MDT",
+      "end": "Sep 22, 2025, 11:21:21 AM MDT",
+      "duration": "6m 34s",
+      "durationMs": 394680
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 11:14:05 AM MDT",
+      "end": "Sep 22, 2025, 11:22:51 AM MDT",
+      "duration": "8m 46s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T17:14:05.407+0000",
+      "recordingEnd": "2025-09-22T17:21:21.805+0000",
+      "conversationStart": "2025-09-22T17:14:05.280+0000",
+      "conversationEnd": "2025-09-22T17:22:51.731+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    },
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

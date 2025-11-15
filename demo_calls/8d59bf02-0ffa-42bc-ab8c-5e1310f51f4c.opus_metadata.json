@@ -1,0 +1,57 @@
+{
+  "recordingId": "8d59bf02-0ffa-42bc-ab8c-5e1310f51f4c",
+  "conversationId": "40a0176c-37c5-4148-bc4b-971bd2d00f57",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Cranford NJ",
+    "from": "tel:+15559374951",
+    "to": "tel:+15559419337",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 05:06:45 PM MDT",
+      "end": "Sep 25, 2025, 05:15:04 PM MDT",
+      "duration": "7m 52s",
+      "durationMs": 472780
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 05:06:45 PM MDT",
+      "end": "Sep 25, 2025, 05:16:34 PM MDT",
+      "duration": "9m 48s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T23:06:45.642+0000",
+      "recordingEnd": "2025-09-25T23:15:04.130+0000",
+      "conversationStart": "2025-09-25T23:06:45.583+0000",
+      "conversationEnd": "2025-09-25T23:16:34.144+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

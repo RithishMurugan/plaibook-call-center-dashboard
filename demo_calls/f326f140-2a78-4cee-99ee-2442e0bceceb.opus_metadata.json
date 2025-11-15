@@ -1,0 +1,57 @@
+{
+  "recordingId": "f326f140-2a78-4cee-99ee-2442e0bceceb",
+  "conversationId": "6cf9ad1f-667d-41c9-84bb-471550852b4a",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Hagerstown MD",
+    "from": "tel:+15552828419",
+    "to": "tel:+15558331401",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 09:54:51 AM MDT",
+      "end": "Sep 24, 2025, 09:58:31 AM MDT",
+      "duration": "2m 25s",
+      "durationMs": 145920
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 09:54:51 AM MDT",
+      "end": "Sep 24, 2025, 10:00:01 AM MDT",
+      "duration": "5m 9s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T15:54:51.326+0000",
+      "recordingEnd": "2025-09-24T15:58:31.048+0000",
+      "conversationStart": "2025-09-24T15:54:51.216+0000",
+      "conversationEnd": "2025-09-24T16:00:01.023+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

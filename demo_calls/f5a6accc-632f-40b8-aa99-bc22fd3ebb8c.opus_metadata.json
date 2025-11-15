@@ -1,0 +1,57 @@
+{
+  "recordingId": "f5a6accc-632f-40b8-aa99-bc22fd3ebb8c",
+  "conversationId": "7346ebfb-e7c1-4bac-afde-a6cf973e8b59",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Flint MI",
+    "from": "tel:+15558306626",
+    "to": "tel:+15555548161",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 12:46:24 PM MDT",
+      "end": "Sep 23, 2025, 01:04:15 PM MDT",
+      "duration": "17m 16s",
+      "durationMs": 1036380
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 12:46:24 PM MDT",
+      "end": "Sep 23, 2025, 01:05:08 PM MDT",
+      "duration": "18m 44s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T18:46:24.908+0000",
+      "recordingEnd": "2025-09-23T19:04:15.935+0000",
+      "conversationStart": "2025-09-23T18:46:24.814+0000",
+      "conversationEnd": "2025-09-23T19:05:08.983+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

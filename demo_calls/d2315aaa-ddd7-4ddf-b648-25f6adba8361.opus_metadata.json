@@ -1,0 +1,57 @@
+{
+  "recordingId": "d2315aaa-ddd7-4ddf-b648-25f6adba8361",
+  "conversationId": "e9dc7b76-0ac8-4a41-86e2-915fc7f99d28",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Lawrenceburg KY",
+    "from": "tel:+15558634976",
+    "to": "tel:+15553695977",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 09:40:08 AM MDT",
+      "end": "Sep 23, 2025, 09:46:18 AM MDT",
+      "duration": "5m 44s",
+      "durationMs": 344160
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 09:40:07 AM MDT",
+      "end": "Sep 23, 2025, 09:46:27 AM MDT",
+      "duration": "6m 20s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T15:40:08.000+0000",
+      "recordingEnd": "2025-09-23T15:46:18.773+0000",
+      "conversationStart": "2025-09-23T15:40:07.862+0000",
+      "conversationEnd": "2025-09-23T15:46:27.933+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

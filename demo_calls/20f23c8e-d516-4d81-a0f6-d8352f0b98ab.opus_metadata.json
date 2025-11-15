@@ -1,0 +1,57 @@
+{
+  "recordingId": "20f23c8e-d516-4d81-a0f6-d8352f0b98ab",
+  "conversationId": "b4dfcc06-69d2-40b6-bf73-3f348830cdfe",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Herndon VA",
+    "from": "tel:+15553480627",
+    "to": "tel:+15558356977",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 10:52:27 AM MDT",
+      "end": "Sep 25, 2025, 10:57:52 AM MDT",
+      "duration": "4m 57s",
+      "durationMs": 297060
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 10:52:27 AM MDT",
+      "end": "Sep 25, 2025, 10:59:22 AM MDT",
+      "duration": "6m 55s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T16:52:27.347+0000",
+      "recordingEnd": "2025-09-25T16:57:52.931+0000",
+      "conversationStart": "2025-09-25T16:52:27.282+0000",
+      "conversationEnd": "2025-09-25T16:59:22.925+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

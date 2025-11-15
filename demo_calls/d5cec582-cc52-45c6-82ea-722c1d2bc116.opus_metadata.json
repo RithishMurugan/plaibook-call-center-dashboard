@@ -1,0 +1,64 @@
+{
+  "recordingId": "d5cec582-cc52-45c6-82ea-722c1d2bc116",
+  "conversationId": "86b8b46a-ba08-478b-b2b8-f3b01b1298ff",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Salisbury MD",
+    "from": "tel:+15551452454",
+    "to": "tel:+15555899509",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT",
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 07:57:41 AM MDT",
+      "end": "Sep 25, 2025, 08:02:50 AM MDT",
+      "duration": "3m 30s",
+      "durationMs": 210380
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 07:57:41 AM MDT",
+      "end": "Sep 25, 2025, 08:04:20 AM MDT",
+      "duration": "6m 38s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T13:57:41.917+0000",
+      "recordingEnd": "2025-09-25T14:02:50.488+0000",
+      "conversationStart": "2025-09-25T13:57:41.791+0000",
+      "conversationEnd": "2025-09-25T14:04:20.404+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

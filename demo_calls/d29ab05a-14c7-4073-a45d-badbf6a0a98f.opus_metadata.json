@@ -1,0 +1,57 @@
+{
+  "recordingId": "d29ab05a-14c7-4073-a45d-badbf6a0a98f",
+  "conversationId": "10e895db-2537-4b69-89cf-243f0c593903",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "New York City NY",
+    "from": "tel:+15550959306",
+    "to": "tel:+15558514170",
+    "wrapupCodes": [
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 01:20:17 PM MDT",
+      "end": "Sep 25, 2025, 01:22:21 PM MDT",
+      "duration": "1m 20s",
+      "durationMs": 80520
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 01:20:17 PM MDT",
+      "end": "Sep 25, 2025, 01:22:37 PM MDT",
+      "duration": "2m 19s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T19:20:17.671+0000",
+      "recordingEnd": "2025-09-25T19:22:21.099+0000",
+      "conversationStart": "2025-09-25T19:20:17.533+0000",
+      "conversationEnd": "2025-09-25T19:22:37.472+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

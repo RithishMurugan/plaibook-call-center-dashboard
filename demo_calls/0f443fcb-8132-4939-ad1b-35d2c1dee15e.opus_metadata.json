@@ -1,0 +1,57 @@
+{
+  "recordingId": "0f443fcb-8132-4939-ad1b-35d2c1dee15e",
+  "conversationId": "4808558a-ac63-471e-bb91-fe4632e1cd0e",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Northville MI",
+    "from": "tel:+15555477064",
+    "to": "tel:+15555816160",
+    "wrapupCodes": [
+      "3d3784d8-87b5-4b9d-a0c5-40a298f23989"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 01:56:47 PM MDT",
+      "end": "Sep 25, 2025, 01:57:36 PM MDT",
+      "duration": "24s",
+      "durationMs": 24900
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 01:56:47 PM MDT",
+      "end": "Sep 25, 2025, 01:58:43 PM MDT",
+      "duration": "1m 55s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T19:56:47.951+0000",
+      "recordingEnd": "2025-09-25T19:57:36.298+0000",
+      "conversationStart": "2025-09-25T19:56:47.467+0000",
+      "conversationEnd": "2025-09-25T19:58:43.022+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

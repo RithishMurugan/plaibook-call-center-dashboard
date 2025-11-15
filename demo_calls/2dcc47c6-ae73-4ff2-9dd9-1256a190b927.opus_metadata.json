@@ -1,0 +1,64 @@
+{
+  "recordingId": "2dcc47c6-ae73-4ff2-9dd9-1256a190b927",
+  "conversationId": "88f59f57-2eb1-4b69-b253-3230a74cb8b6",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Solomons MD",
+    "from": "tel:+15559361837",
+    "to": "tel:+15553850026",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT",
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 12:47:23 PM MDT",
+      "end": "Sep 24, 2025, 12:48:04 PM MDT",
+      "duration": "40s",
+      "durationMs": 40540
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 12:25:07 PM MDT",
+      "end": "Sep 24, 2025, 12:49:34 PM MDT",
+      "duration": "24m 26s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T18:47:23.627+0000",
+      "recordingEnd": "2025-09-24T18:48:04.167+0000",
+      "conversationStart": "2025-09-24T18:25:07.954+0000",
+      "conversationEnd": "2025-09-24T18:49:34.471+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

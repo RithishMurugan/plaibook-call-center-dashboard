@@ -1,0 +1,65 @@
+{
+  "recordingId": "33cfc20d-3dd1-4d64-ab0d-8026816a85ad",
+  "conversationId": "c6be43be-e3cb-4da5-8dd8-cbd7995bb7fb",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Nampa ID",
+    "from": "tel:+15552115686",
+    "to": "tel:+15558454397",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT",
+      "32342892-1275-442e-ae8a-e17dd260e8ef",
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 02:45:05 PM MDT",
+      "end": "Sep 25, 2025, 02:52:43 PM MDT",
+      "duration": "3m 52s",
+      "durationMs": 232120
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 02:45:04 PM MDT",
+      "end": "Sep 25, 2025, 02:53:21 PM MDT",
+      "duration": "8m 17s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T20:45:05.243+0000",
+      "recordingEnd": "2025-09-25T20:52:43.614+0000",
+      "conversationStart": "2025-09-25T20:45:04.608+0000",
+      "conversationEnd": "2025-09-25T20:53:21.681+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

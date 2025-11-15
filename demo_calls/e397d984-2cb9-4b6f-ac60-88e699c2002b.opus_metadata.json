@@ -1,0 +1,57 @@
+{
+  "recordingId": "e397d984-2cb9-4b6f-ac60-88e699c2002b",
+  "conversationId": "a9fa8c22-826b-4361-ba5e-725a1ddb2b2b",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Fork MD",
+    "from": "tel:+15558577716",
+    "to": "tel:+15558544268",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 21, 2025, 07:54:49 AM MDT",
+      "end": "Sep 21, 2025, 08:00:47 AM MDT",
+      "duration": "5m 57s",
+      "durationMs": 357960
+    },
+    "conversation": {
+      "start": "Sep 21, 2025, 07:43:12 AM MDT",
+      "end": "Sep 22, 2025, 07:07:52 AM MDT",
+      "duration": "23h 24m 40s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-21T13:54:49.536+0000",
+      "recordingEnd": "2025-09-21T14:00:47.496+0000",
+      "conversationStart": "2025-09-21T13:43:12.815+0000",
+      "conversationEnd": "2025-09-22T13:07:52.826+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

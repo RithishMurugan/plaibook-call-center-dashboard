@@ -1,0 +1,63 @@
+{
+  "recordingId": "44c3542b-fa34-4df7-8cbd-6403ba5b3901",
+  "conversationId": "248f73b5-81a3-4115-bdc2-e2027eefb04e",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Caldwell NJ",
+    "from": "tel:+15555667559",
+    "to": "tel:+15557613649",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 08:26:40 AM MDT",
+      "end": "Sep 24, 2025, 08:30:33 AM MDT",
+      "duration": "3m 18s",
+      "durationMs": 198020
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 08:26:40 AM MDT",
+      "end": "Sep 24, 2025, 08:31:33 AM MDT",
+      "duration": "4m 53s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T14:26:40.926+0000",
+      "recordingEnd": "2025-09-24T14:30:33.837+0000",
+      "conversationStart": "2025-09-24T14:26:40.791+0000",
+      "conversationEnd": "2025-09-24T14:31:33.829+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "4d5880db-b2b5-46c6-a0a1-092dfd6f6f68",
+  "conversationId": "ba60a274-f35b-45bb-8d4d-6bdf19876a27",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Sykesville MD",
+    "from": "tel:+15559603529",
+    "to": "tel:+15554823394",
+    "wrapupCodes": [
+      "32342892-1275-442e-ae8a-e17dd260e8ef"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 21, 2025, 07:14:08 AM MDT",
+      "end": "Sep 21, 2025, 07:18:22 AM MDT",
+      "duration": "3m 17s",
+      "durationMs": 197620
+    },
+    "conversation": {
+      "start": "Sep 21, 2025, 07:14:08 AM MDT",
+      "end": "Sep 21, 2025, 07:18:31 AM MDT",
+      "duration": "4m 22s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-21T13:14:08.982+0000",
+      "recordingEnd": "2025-09-21T13:18:22.430+0000",
+      "conversationStart": "2025-09-21T13:14:08.863+0000",
+      "conversationEnd": "2025-09-21T13:18:31.589+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

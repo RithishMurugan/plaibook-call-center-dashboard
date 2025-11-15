@@ -1,0 +1,63 @@
+{
+  "recordingId": "ba84892f-1f35-4e96-a691-cfce664065cd",
+  "conversationId": "d16497dc-fc95-456a-abb6-fe0bea21bab1",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "MICHELE AHRENS",
+    "from": "tel:+15557725916",
+    "to": "tel:+15550858002",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 01:27:58 PM MDT",
+      "end": "Sep 25, 2025, 01:39:08 PM MDT",
+      "duration": "10m 1s",
+      "durationMs": 601160
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 01:27:58 PM MDT",
+      "end": "Sep 25, 2025, 01:40:38 PM MDT",
+      "duration": "12m 39s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T19:27:58.604+0000",
+      "recordingEnd": "2025-09-25T19:39:08.101+0000",
+      "conversationStart": "2025-09-25T19:27:58.338+0000",
+      "conversationEnd": "2025-09-25T19:40:38.037+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

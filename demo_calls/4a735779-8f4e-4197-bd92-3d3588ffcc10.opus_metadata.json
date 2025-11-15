@@ -1,0 +1,63 @@
+{
+  "recordingId": "4a735779-8f4e-4197-bd92-3d3588ffcc10",
+  "conversationId": "b0be9e6c-f3d0-485a-836d-07ad7da1cb24",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Indian Head MD",
+    "from": "tel:+15554317086",
+    "to": "tel:+15556519006",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 01:51:13 PM MDT",
+      "end": "Sep 23, 2025, 01:54:31 PM MDT",
+      "duration": "2m 44s",
+      "durationMs": 164480
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 01:51:13 PM MDT",
+      "end": "Sep 23, 2025, 01:55:31 PM MDT",
+      "duration": "4m 17s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T19:51:13.935+0000",
+      "recordingEnd": "2025-09-23T19:54:31.529+0000",
+      "conversationStart": "2025-09-23T19:51:13.693+0000",
+      "conversationEnd": "2025-09-23T19:55:31.517+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

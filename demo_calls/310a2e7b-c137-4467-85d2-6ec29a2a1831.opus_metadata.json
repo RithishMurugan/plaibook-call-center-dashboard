@@ -1,0 +1,72 @@
+{
+  "recordingId": "310a2e7b-c137-4467-85d2-6ec29a2a1831",
+  "conversationId": "47d55f04-5bc2-4b44-8909-2a0a73739aad",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Front Royal VA",
+    "from": "tel:+15552467461",
+    "to": "tel:+15558674973",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 01:37:44 PM MDT",
+      "end": "Sep 22, 2025, 01:42:26 PM MDT",
+      "duration": "3m 51s",
+      "durationMs": 231020
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 01:37:43 PM MDT",
+      "end": "Sep 22, 2025, 01:43:26 PM MDT",
+      "duration": "5m 42s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T19:37:44.027+0000",
+      "recordingEnd": "2025-09-22T19:42:26.187+0000",
+      "conversationStart": "2025-09-22T19:37:43.826+0000",
+      "conversationEnd": "2025-09-22T19:43:26.152+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    },
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

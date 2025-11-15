@@ -1,0 +1,57 @@
+{
+  "recordingId": "8eab149f-e965-4b70-a91e-a058a5f38f88",
+  "conversationId": "2c16a5e3-541d-4ab7-b1b4-29033c079155",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Dalton GA",
+    "from": "tel:+15552410867",
+    "to": "tel:+15556752381",
+    "wrapupCodes": [
+      "c9816572-7552-4447-8b6b-ae1db25e1d0c"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 26, 2025, 07:29:07 PM MDT",
+      "end": "Sep 26, 2025, 07:30:28 PM MDT",
+      "duration": "45s",
+      "durationMs": 45420
+    },
+    "conversation": {
+      "start": "Sep 26, 2025, 07:29:07 PM MDT",
+      "end": "Sep 26, 2025, 07:31:20 PM MDT",
+      "duration": "2m 12s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-27T01:29:07.634+0000",
+      "recordingEnd": "2025-09-27T01:30:28.448+0000",
+      "conversationStart": "2025-09-27T01:29:07.526+0000",
+      "conversationEnd": "2025-09-27T01:31:20.398+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

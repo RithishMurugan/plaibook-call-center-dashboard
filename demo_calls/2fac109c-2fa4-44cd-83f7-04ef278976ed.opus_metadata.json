@@ -1,0 +1,63 @@
+{
+  "recordingId": "2fac109c-2fa4-44cd-83f7-04ef278976ed",
+  "conversationId": "81bc4159-a2b6-4d89-8329-e80c954d2258",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Salisbury MD",
+    "from": "tel:+15551022669",
+    "to": "tel:+15551795462",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 08:55:58 AM MDT",
+      "end": "Sep 24, 2025, 09:00:57 AM MDT",
+      "duration": "3m 45s",
+      "durationMs": 225400
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 08:55:58 AM MDT",
+      "end": "Sep 24, 2025, 09:01:57 AM MDT",
+      "duration": "5m 58s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T14:55:58.967+0000",
+      "recordingEnd": "2025-09-24T15:00:57.358+0000",
+      "conversationStart": "2025-09-24T14:55:58.659+0000",
+      "conversationEnd": "2025-09-24T15:01:57.316+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

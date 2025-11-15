@@ -1,0 +1,57 @@
+{
+  "recordingId": "1b235d2b-d95f-4dd2-a3f9-6ee525d28f72",
+  "conversationId": "56ac96fa-03cf-4fb1-a78a-ed50d8b2cabd",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Nampa ID",
+    "from": "tel:+15559491548",
+    "to": "tel:+15550522765",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 03:16:31 PM MDT",
+      "end": "Sep 24, 2025, 03:21:12 PM MDT",
+      "duration": "4m 16s",
+      "durationMs": 256680
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 03:16:31 PM MDT",
+      "end": "Sep 24, 2025, 03:22:42 PM MDT",
+      "duration": "6m 10s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T21:16:31.530+0000",
+      "recordingEnd": "2025-09-24T21:21:12.260+0000",
+      "conversationStart": "2025-09-24T21:16:31.414+0000",
+      "conversationEnd": "2025-09-24T21:22:42.219+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

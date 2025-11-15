@@ -1,0 +1,57 @@
+{
+  "recordingId": "51ff8f60-6672-4cfb-817a-1ce9e5b87191",
+  "conversationId": "29242235-5d3a-451a-9f31-42dc74735c73",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Beverly Hills CA",
+    "from": "tel:+15553814308",
+    "to": "tel:+15556715636",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 01:52:08 PM MDT",
+      "end": "Sep 25, 2025, 01:55:34 PM MDT",
+      "duration": "2m 26s",
+      "durationMs": 146160
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 01:52:08 PM MDT",
+      "end": "Sep 25, 2025, 01:57:04 PM MDT",
+      "duration": "4m 55s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T19:52:08.958+0000",
+      "recordingEnd": "2025-09-25T19:55:34.042+0000",
+      "conversationStart": "2025-09-25T19:52:08.821+0000",
+      "conversationEnd": "2025-09-25T19:57:04.018+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

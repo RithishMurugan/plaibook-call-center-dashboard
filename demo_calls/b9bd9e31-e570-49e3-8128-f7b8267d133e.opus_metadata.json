@@ -1,0 +1,57 @@
+{
+  "recordingId": "b9bd9e31-e570-49e3-8128-f7b8267d133e",
+  "conversationId": "4687b096-d7cb-423a-afa7-2770b379ac83",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Clarksville TN",
+    "from": "tel:+15559901128",
+    "to": "tel:+15553353937",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 09:06:11 AM MDT",
+      "end": "Sep 25, 2025, 09:11:24 AM MDT",
+      "duration": "4m 33s",
+      "durationMs": 273420
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 09:06:11 AM MDT",
+      "end": "Sep 25, 2025, 09:12:54 AM MDT",
+      "duration": "6m 43s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T15:06:11.141+0000",
+      "recordingEnd": "2025-09-25T15:11:24.803+0000",
+      "conversationStart": "2025-09-25T15:06:11.021+0000",
+      "conversationEnd": "2025-09-25T15:12:54.778+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

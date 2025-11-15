@@ -1,0 +1,57 @@
+{
+  "recordingId": "9103ff3e-1464-4313-b0c5-4e50ded6d7b6",
+  "conversationId": "de7665dc-8abf-49f1-a450-dab457153d67",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Towson MD",
+    "from": "tel:+15553359344",
+    "to": "tel:+15550473595",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 02:16:35 PM MDT",
+      "end": "Sep 25, 2025, 02:28:06 PM MDT",
+      "duration": "10m 57s",
+      "durationMs": 657940
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 02:16:34 PM MDT",
+      "end": "Sep 25, 2025, 02:29:04 PM MDT",
+      "duration": "12m 29s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T20:16:35.032+0000",
+      "recordingEnd": "2025-09-25T20:28:06.028+0000",
+      "conversationStart": "2025-09-25T20:16:34.963+0000",
+      "conversationEnd": "2025-09-25T20:29:04.690+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "recordingId": "8761bde5-99af-4c05-be46-0abb45d537e2",
+  "conversationId": "ee5c729a-e58b-44cb-ae5b-358bbadcc4d8",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Camden DE",
+    "from": "tel:+15554282978",
+    "to": "tel:+15552193147",
+    "wrapupCodes": [
+      "7fb334b0-0e9e-11e4-9191-0800200c9a66",
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 07:03:16 AM MDT",
+      "end": "Sep 25, 2025, 07:13:07 AM MDT",
+      "duration": "8m 52s",
+      "durationMs": 532480
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 06:46:03 AM MDT",
+      "end": "Sep 25, 2025, 07:14:13 AM MDT",
+      "duration": "28m 9s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T13:03:16.696+0000",
+      "recordingEnd": "2025-09-25T13:13:07.318+0000",
+      "conversationStart": "2025-09-25T12:46:03.710+0000",
+      "conversationEnd": "2025-09-25T13:14:13.398+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

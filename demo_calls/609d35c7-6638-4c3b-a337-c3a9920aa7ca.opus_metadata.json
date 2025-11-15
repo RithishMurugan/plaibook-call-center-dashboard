@@ -1,0 +1,63 @@
+{
+  "recordingId": "609d35c7-6638-4c3b-a337-c3a9920aa7ca",
+  "conversationId": "54e5af19-ae8d-4c28-a2f5-8fe4ecfcd617",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Herndon VA",
+    "from": "tel:+15552752362",
+    "to": "tel:+15555933642",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 01:56:17 PM MDT",
+      "end": "Sep 25, 2025, 02:01:52 PM MDT",
+      "duration": "4m 9s",
+      "durationMs": 249400
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 01:56:17 PM MDT",
+      "end": "Sep 25, 2025, 02:03:22 PM MDT",
+      "duration": "7m 5s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T19:56:17.947+0000",
+      "recordingEnd": "2025-09-25T20:01:52.957+0000",
+      "conversationStart": "2025-09-25T19:56:17.799+0000",
+      "conversationEnd": "2025-09-25T20:03:22.863+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

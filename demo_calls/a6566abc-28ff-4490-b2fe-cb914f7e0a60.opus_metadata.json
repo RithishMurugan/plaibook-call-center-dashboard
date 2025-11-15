@@ -1,0 +1,57 @@
+{
+  "recordingId": "a6566abc-28ff-4490-b2fe-cb914f7e0a60",
+  "conversationId": "cbaf6ce9-1cff-4337-9008-7a4d86103785",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Waldorf MD",
+    "from": "tel:+15558111607",
+    "to": "tel:+15555343645",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 12:42:38 PM MDT",
+      "end": "Sep 25, 2025, 12:48:37 PM MDT",
+      "duration": "5m 31s",
+      "durationMs": 331020
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 12:42:38 PM MDT",
+      "end": "Sep 25, 2025, 12:50:07 PM MDT",
+      "duration": "7m 28s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T18:42:38.958+0000",
+      "recordingEnd": "2025-09-25T18:48:37.246+0000",
+      "conversationStart": "2025-09-25T18:42:38.506+0000",
+      "conversationEnd": "2025-09-25T18:50:07.220+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

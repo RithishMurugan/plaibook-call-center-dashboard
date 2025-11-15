@@ -1,0 +1,57 @@
+{
+  "recordingId": "054f4c8e-94f0-4a52-85da-c9afe1f4cdfb",
+  "conversationId": "5dd6778c-90de-44c9-8640-cd87716e6e43",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Saint George UT",
+    "from": "tel:+15557047600",
+    "to": "tel:+15552370858",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 02:47:41 PM MDT",
+      "end": "Sep 22, 2025, 02:57:43 PM MDT",
+      "duration": "8m 0s",
+      "durationMs": 480020
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 02:47:41 PM MDT",
+      "end": "Sep 22, 2025, 02:59:13 PM MDT",
+      "duration": "11m 31s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T20:47:41.347+0000",
+      "recordingEnd": "2025-09-22T20:57:43.226+0000",
+      "conversationStart": "2025-09-22T20:47:41.224+0000",
+      "conversationEnd": "2025-09-22T20:59:13.208+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

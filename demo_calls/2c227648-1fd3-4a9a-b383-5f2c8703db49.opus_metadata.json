@@ -1,0 +1,57 @@
+{
+  "recordingId": "2c227648-1fd3-4a9a-b383-5f2c8703db49",
+  "conversationId": "4281b920-83c9-4e92-94aa-eb5a21adce95",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Topeka KS",
+    "from": "tel:+15550304135",
+    "to": "tel:+15553392144",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 08:45:00 AM MDT",
+      "end": "Sep 23, 2025, 08:56:04 AM MDT",
+      "duration": "10m 25s",
+      "durationMs": 625900
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 08:45:00 AM MDT",
+      "end": "Sep 23, 2025, 08:56:20 AM MDT",
+      "duration": "11m 19s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T14:45:00.535+0000",
+      "recordingEnd": "2025-09-23T14:56:04.820+0000",
+      "conversationStart": "2025-09-23T14:45:00.317+0000",
+      "conversationEnd": "2025-09-23T14:56:20.312+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

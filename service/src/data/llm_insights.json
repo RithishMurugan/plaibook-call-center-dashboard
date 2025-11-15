@@ -1,0 +1,271 @@
+[
+  {
+    "callId": "00de0d82-5b87-436f-ac49-2803430af9c2",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": true,
+    "saleOutcome": "sale",
+    "followUpRequested": false,
+    "objections": [],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      }
+    ],
+    "customerIntent": "Ready to purchase",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt",
+        "Successfully attached termite inspection"
+      ],
+      "weaknesses": []
+    }
+  },
+  {
+    "callId": "04207de2-2987-4b93-8adb-e9e26b9d3304",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": true,
+    "saleOutcome": "sale",
+    "followUpRequested": false,
+    "objections": [],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      }
+    ],
+    "customerIntent": "Ready to purchase",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt",
+        "Successfully attached termite inspection"
+      ],
+      "weaknesses": []
+    }
+  },
+  {
+    "callId": "0c011611-8f02-4691-b53e-52cc66c6da01",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": true,
+    "saleOutcome": "sale",
+    "followUpRequested": false,
+    "objections": [],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      }
+    ],
+    "customerIntent": "Ready to purchase",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt",
+        "Successfully attached termite inspection"
+      ],
+      "weaknesses": []
+    }
+  },
+  {
+    "callId": "038c4315-08e4-4124-ac5f-496540338d63",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": false,
+    "saleOutcome": "inspection",
+    "followUpRequested": false,
+    "objections": [],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      }
+    ],
+    "customerIntent": "Interested in inspection",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt"
+      ],
+      "weaknesses": []
+    }
+  },
+  {
+    "callId": "078a9481-6b9c-4b7c-a3fa-9e449d241086",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": false,
+    "saleOutcome": "inspection",
+    "followUpRequested": false,
+    "objections": [],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      }
+    ],
+    "customerIntent": "Interested in inspection",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt"
+      ],
+      "weaknesses": []
+    }
+  },
+  {
+    "callId": "07c6fc1b-9bab-41b8-9c20-feac49a5c364",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": false,
+    "saleOutcome": "inspection",
+    "followUpRequested": false,
+    "objections": [],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      }
+    ],
+    "customerIntent": "Interested in inspection",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt"
+      ],
+      "weaknesses": []
+    }
+  },
+  {
+    "callId": "0057112e-15b0-4dd7-a7d0-9fd2e2d06625",
+    "upsellAttempted": false,
+    "upsellAttachedToRecurring": false,
+    "saleOutcome": "sale",
+    "followUpRequested": true,
+    "followUpPhrase": "Need to discuss with spouse",
+    "objections": [
+      "Need time to consider"
+    ],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "4:15",
+        "speaker": "customer",
+        "quote": "Need time to consider",
+        "significance": "Objection raised"
+      }
+    ],
+    "customerIntent": "Ready to purchase",
+    "repPerformance": {
+      "strengths": [],
+      "weaknesses": [
+        "Missed upsell opportunity"
+      ]
+    }
+  },
+  {
+    "callId": "054f4c8e-94f0-4a52-85da-c9afe1f4cdfb",
+    "upsellAttempted": false,
+    "upsellAttachedToRecurring": false,
+    "saleOutcome": "sale",
+    "followUpRequested": true,
+    "followUpPhrase": "Call me back",
+    "objections": [
+      "Need time to consider"
+    ],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "4:15",
+        "speaker": "customer",
+        "quote": "Need time to consider",
+        "significance": "Objection raised"
+      }
+    ],
+    "customerIntent": "Ready to purchase",
+    "repPerformance": {
+      "strengths": [],
+      "weaknesses": [
+        "Missed upsell opportunity"
+      ]
+    }
+  },
+  {
+    "callId": "01559242-8bb4-4621-b9e6-3150bbab789b",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": false,
+    "saleOutcome": "no_action",
+    "followUpRequested": false,
+    "objections": [
+      "Need time to consider"
+    ],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      },
+      {
+        "timestamp": "4:15",
+        "speaker": "customer",
+        "quote": "Need time to consider",
+        "significance": "Objection raised"
+      }
+    ],
+    "customerIntent": "Gathering information",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt"
+      ],
+      "weaknesses": [
+        "Objection not handled"
+      ]
+    }
+  },
+  {
+    "callId": "03adc006-cd86-4138-b2fb-f6d0ccaba056",
+    "upsellAttempted": true,
+    "upsellAttachedToRecurring": false,
+    "saleOutcome": "no_action",
+    "followUpRequested": false,
+    "objections": [
+      "Need time to consider"
+    ],
+    "sentiment": "positive",
+    "keyMoments": [
+      {
+        "timestamp": "2:30",
+        "speaker": "agent",
+        "quote": "Would you be interested in our recurring plan?",
+        "significance": "Upsell attempt"
+      },
+      {
+        "timestamp": "4:15",
+        "speaker": "customer",
+        "quote": "Need time to consider",
+        "significance": "Objection raised"
+      }
+    ],
+    "customerIntent": "Gathering information",
+    "repPerformance": {
+      "strengths": [
+        "Proactive upsell attempt"
+      ],
+      "weaknesses": [
+        "Objection not handled"
+      ]
+    }
+  }
+]

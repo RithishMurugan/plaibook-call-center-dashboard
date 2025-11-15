@@ -1,0 +1,57 @@
+{
+  "recordingId": "c982946c-20e8-48fb-8aef-fbb3bf041971",
+  "conversationId": "a7dbb52c-4be4-412a-b759-32e1ceb4361a",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Camden DE",
+    "from": "tel:+15556013380",
+    "to": "tel:+15553430642",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 11:55:06 AM MDT",
+      "end": "Sep 23, 2025, 11:56:22 AM MDT",
+      "duration": "19s",
+      "durationMs": 19540
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 11:55:06 AM MDT",
+      "end": "Sep 23, 2025, 11:57:52 AM MDT",
+      "duration": "2m 46s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T17:55:06.194+0000",
+      "recordingEnd": "2025-09-23T17:56:22.889+0000",
+      "conversationStart": "2025-09-23T17:55:06.065+0000",
+      "conversationEnd": "2025-09-23T17:57:52.855+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "ad71c060-0956-446a-b39b-7e610da64ca8",
+  "conversationId": "ab07ed4a-6f43-4912-be47-6c26026c2c2b",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Northville MI",
+    "from": "tel:+15555926469",
+    "to": "tel:+15550256265",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 05:34:17 PM MDT",
+      "end": "Sep 25, 2025, 05:43:35 PM MDT",
+      "duration": "8m 42s",
+      "durationMs": 522700
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 05:34:17 PM MDT",
+      "end": "Sep 25, 2025, 05:44:03 PM MDT",
+      "duration": "9m 45s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T23:34:17.560+0000",
+      "recordingEnd": "2025-09-25T23:43:35.420+0000",
+      "conversationStart": "2025-09-25T23:34:17.461+0000",
+      "conversationEnd": "2025-09-25T23:44:03.217+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

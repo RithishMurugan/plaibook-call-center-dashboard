@@ -1,0 +1,57 @@
+{
+  "recordingId": "5ad300d7-3dad-4dea-bd1e-481d997a9fba",
+  "conversationId": "7ecbb6f3-920c-424d-8aac-af2f4f066a4d",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Trenton NJ",
+    "from": "tel:+15554275381",
+    "to": "tel:+15555834078",
+    "wrapupCodes": [
+      "4dd67064-55a6-46d7-b587-7db1c613ae7a"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 02:07:04 PM MDT",
+      "end": "Sep 25, 2025, 02:08:44 PM MDT",
+      "duration": "1m 4s",
+      "durationMs": 64900
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 02:07:04 PM MDT",
+      "end": "Sep 25, 2025, 02:08:49 PM MDT",
+      "duration": "1m 45s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T20:07:04.606+0000",
+      "recordingEnd": "2025-09-25T20:08:44.903+0000",
+      "conversationStart": "2025-09-25T20:07:04.480+0000",
+      "conversationEnd": "2025-09-25T20:08:49.914+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

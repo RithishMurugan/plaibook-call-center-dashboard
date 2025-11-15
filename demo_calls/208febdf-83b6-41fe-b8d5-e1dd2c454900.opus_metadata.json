@@ -1,0 +1,57 @@
+{
+  "recordingId": "208febdf-83b6-41fe-b8d5-e1dd2c454900",
+  "conversationId": "c14aa512-b4d3-41b2-afb4-1ecfad9802bc",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Lynchburg VA",
+    "from": "tel:+15557471895",
+    "to": "tel:+15558589964",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 08:11:38 AM MDT",
+      "end": "Sep 23, 2025, 08:13:01 AM MDT",
+      "duration": "47s",
+      "durationMs": 47880
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 08:11:38 AM MDT",
+      "end": "Sep 23, 2025, 08:14:31 AM MDT",
+      "duration": "2m 52s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T14:11:38.592+0000",
+      "recordingEnd": "2025-09-23T14:13:01.181+0000",
+      "conversationStart": "2025-09-23T14:11:38.448+0000",
+      "conversationEnd": "2025-09-23T14:14:31.214+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

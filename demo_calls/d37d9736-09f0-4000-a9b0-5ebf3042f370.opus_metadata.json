@@ -1,0 +1,57 @@
+{
+  "recordingId": "d37d9736-09f0-4000-a9b0-5ebf3042f370",
+  "conversationId": "6b0a3d60-f503-454e-8412-707c25473f89",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Laurel 236 MD",
+    "from": "tel:+15554428116",
+    "to": "tel:+15552189249",
+    "wrapupCodes": [
+      "c144699b-f085-40bc-946c-fc73aea59250"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 10:55:33 AM MDT",
+      "end": "Sep 23, 2025, 10:57:04 AM MDT",
+      "duration": "57s",
+      "durationMs": 57760
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 10:55:33 AM MDT",
+      "end": "Sep 23, 2025, 10:57:11 AM MDT",
+      "duration": "1m 38s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T16:55:33.551+0000",
+      "recordingEnd": "2025-09-23T16:57:04.463+0000",
+      "conversationStart": "2025-09-23T16:55:33.424+0000",
+      "conversationEnd": "2025-09-23T16:57:11.486+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "76b62c7c-1b2e-4277-81d2-2f42d5466a0b",
+  "conversationId": "605c9aef-779c-441b-a5cb-d55ca7278c7f",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Pittsburgh PA",
+    "from": "sip:668c4c4bbb3f092aa7880288+frontlinepest.orgspan.com@localhost",
+    "to": "tel:+15554351706",
+    "wrapupCodes": [
+      "535c9cd7-b602-4aee-90dc-81b660915c17"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 11:08:48 AM MDT",
+      "end": "Sep 23, 2025, 11:09:51 AM MDT",
+      "duration": "1m 2s",
+      "durationMs": 62800
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 11:08:28 AM MDT",
+      "end": "Sep 23, 2025, 11:10:16 AM MDT",
+      "duration": "1m 48s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T17:08:48.414+0000",
+      "recordingEnd": "2025-09-23T17:09:51.214+0000",
+      "conversationStart": "2025-09-23T17:08:28.189+0000",
+      "conversationEnd": "2025-09-23T17:10:16.336+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

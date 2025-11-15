@@ -1,0 +1,57 @@
+{
+  "recordingId": "31187163-4495-453c-a4ad-b7c9cf49b7d6",
+  "conversationId": "e6fc24d6-287d-44a3-91c9-51d05050761f",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Catonsville MD",
+    "from": "sip:668c4c4bbb3f092aa7880288+frontlinepest.orgspan.com@localhost",
+    "to": "tel:+15555169158",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 11:01:46 AM MDT",
+      "end": "Sep 24, 2025, 11:20:14 AM MDT",
+      "duration": "18m 28s",
+      "durationMs": 1108460
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 11:01:39 AM MDT",
+      "end": "Sep 24, 2025, 11:21:44 AM MDT",
+      "duration": "20m 4s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T17:01:46.318+0000",
+      "recordingEnd": "2025-09-24T17:20:14.778+0000",
+      "conversationStart": "2025-09-24T17:01:39.864+0000",
+      "conversationEnd": "2025-09-24T17:21:44.794+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

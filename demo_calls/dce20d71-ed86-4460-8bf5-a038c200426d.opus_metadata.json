@@ -1,0 +1,63 @@
+{
+  "recordingId": "dce20d71-ed86-4460-8bf5-a038c200426d",
+  "conversationId": "0276530c-a696-4fc1-a071-0c21275ca0ce",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Toll Free",
+    "from": "tel:+15556313620",
+    "to": "tel:+15558355913",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 11:04:29 AM MDT",
+      "end": "Sep 25, 2025, 11:12:02 AM MDT",
+      "duration": "5m 8s",
+      "durationMs": 308640
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 11:04:29 AM MDT",
+      "end": "Sep 25, 2025, 11:13:02 AM MDT",
+      "duration": "8m 33s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T17:04:29.356+0000",
+      "recordingEnd": "2025-09-25T17:12:02.673+0000",
+      "conversationStart": "2025-09-25T17:04:29.290+0000",
+      "conversationEnd": "2025-09-25T17:13:02.643+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "e0fd237a-fd24-4043-9453-da8738240b39",
+  "conversationId": "271fb66a-6bf6-4148-b629-a7bb1be44798",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Johnson City TN",
+    "from": "tel:+15551686455",
+    "to": "tel:+15551357016",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 08:23:37 AM MDT",
+      "end": "Sep 25, 2025, 08:26:01 AM MDT",
+      "duration": "1m 59s",
+      "durationMs": 119780
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 08:23:37 AM MDT",
+      "end": "Sep 25, 2025, 08:27:31 AM MDT",
+      "duration": "3m 54s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T14:23:37.346+0000",
+      "recordingEnd": "2025-09-25T14:26:01.432+0000",
+      "conversationStart": "2025-09-25T14:23:37.227+0000",
+      "conversationEnd": "2025-09-25T14:27:31.380+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

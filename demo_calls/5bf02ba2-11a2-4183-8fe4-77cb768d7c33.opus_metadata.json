@@ -1,0 +1,57 @@
+{
+  "recordingId": "5bf02ba2-11a2-4183-8fe4-77cb768d7c33",
+  "conversationId": "397e59ea-5d53-4d26-95d2-85411044dbe1",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Elkton MD",
+    "from": "tel:+15554597755",
+    "to": "tel:+15550779270",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 10:20:13 AM MDT",
+      "end": "Sep 22, 2025, 10:27:24 AM MDT",
+      "duration": "5m 3s",
+      "durationMs": 303620
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 10:20:13 AM MDT",
+      "end": "Sep 22, 2025, 10:28:47 AM MDT",
+      "duration": "8m 33s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T16:20:13.881+0000",
+      "recordingEnd": "2025-09-22T16:27:24.918+0000",
+      "conversationStart": "2025-09-22T16:20:13.772+0000",
+      "conversationEnd": "2025-09-22T16:28:47.230+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

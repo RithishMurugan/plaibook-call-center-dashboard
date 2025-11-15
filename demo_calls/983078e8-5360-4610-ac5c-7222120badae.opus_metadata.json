@@ -1,0 +1,57 @@
+{
+  "recordingId": "983078e8-5360-4610-ac5c-7222120badae",
+  "conversationId": "b40dfbab-693f-4981-b13e-dd52043712b3",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Chattanooga TN",
+    "from": "tel:+15553513448",
+    "to": "tel:+15552249499",
+    "wrapupCodes": [
+      "3d3784d8-87b5-4b9d-a0c5-40a298f23989"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 03:50:46 PM MDT",
+      "end": "Sep 25, 2025, 03:52:53 PM MDT",
+      "duration": "1m 36s",
+      "durationMs": 96500
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 03:50:46 PM MDT",
+      "end": "Sep 25, 2025, 03:54:03 PM MDT",
+      "duration": "3m 16s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T21:50:46.875+0000",
+      "recordingEnd": "2025-09-25T21:52:53.534+0000",
+      "conversationStart": "2025-09-25T21:50:46.815+0000",
+      "conversationEnd": "2025-09-25T21:54:03.210+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

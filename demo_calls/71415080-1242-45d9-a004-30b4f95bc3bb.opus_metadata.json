@@ -1,0 +1,57 @@
+{
+  "recordingId": "71415080-1242-45d9-a004-30b4f95bc3bb",
+  "conversationId": "b809b4f0-17e0-49ac-a537-de0bc4e9a222",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Thousand Oaks CA",
+    "from": "tel:+15559431647",
+    "to": "tel:+15550177990",
+    "wrapupCodes": [
+      "c674e3c0-169d-4c93-b283-88fd7ba67e7c"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 12:55:24 PM MDT",
+      "end": "Sep 25, 2025, 12:59:48 PM MDT",
+      "duration": "3m 54s",
+      "durationMs": 234260
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 12:55:24 PM MDT",
+      "end": "Sep 25, 2025, 01:00:58 PM MDT",
+      "duration": "5m 34s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T18:55:24.561+0000",
+      "recordingEnd": "2025-09-25T18:59:48.789+0000",
+      "conversationStart": "2025-09-25T18:55:24.215+0000",
+      "conversationEnd": "2025-09-25T19:00:58.522+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

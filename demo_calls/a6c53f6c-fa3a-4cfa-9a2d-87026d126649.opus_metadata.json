@@ -1,0 +1,64 @@
+{
+  "recordingId": "a6c53f6c-fa3a-4cfa-9a2d-87026d126649",
+  "conversationId": "a560c591-58cc-4e50-b791-725e7facfb94",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Braddock VA",
+    "from": "tel:+15559858977",
+    "to": "tel:+15557122260",
+    "wrapupCodes": [
+      "7fb334b0-0e9e-11e4-9191-0800200c9a66",
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 07:44:44 AM MDT",
+      "end": "Sep 23, 2025, 07:52:25 AM MDT",
+      "duration": "7m 15s",
+      "durationMs": 435700
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 07:44:44 AM MDT",
+      "end": "Sep 23, 2025, 07:53:25 AM MDT",
+      "duration": "8m 41s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T13:44:44.971+0000",
+      "recordingEnd": "2025-09-23T13:52:25.806+0000",
+      "conversationStart": "2025-09-23T13:44:44.772+0000",
+      "conversationEnd": "2025-09-23T13:53:25.950+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

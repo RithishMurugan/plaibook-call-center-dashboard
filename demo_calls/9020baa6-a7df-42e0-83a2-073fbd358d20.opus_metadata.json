@@ -1,0 +1,57 @@
+{
+  "recordingId": "9020baa6-a7df-42e0-83a2-073fbd358d20",
+  "conversationId": "c9055cb7-52a8-428f-92c4-2c6dcf1943e4",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Randallstown MD",
+    "from": "tel:+15556676347",
+    "to": "tel:+15551203654",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 09:30:36 AM MDT",
+      "end": "Sep 24, 2025, 09:32:45 AM MDT",
+      "duration": "1m 39s",
+      "durationMs": 99880
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 09:30:35 AM MDT",
+      "end": "Sep 24, 2025, 09:34:15 AM MDT",
+      "duration": "3m 39s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T15:30:36.018+0000",
+      "recordingEnd": "2025-09-24T15:32:45.846+0000",
+      "conversationStart": "2025-09-24T15:30:35.902+0000",
+      "conversationEnd": "2025-09-24T15:34:15.796+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "4e74b44d-0a2b-4746-a47c-0da7f29bed5f",
+  "conversationId": "67ff7a50-7a40-404d-8098-09118af82f4f",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Delmar MD",
+    "from": "tel:+15557912219",
+    "to": "tel:+15557440306",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 09:44:57 AM MDT",
+      "end": "Sep 24, 2025, 09:46:46 AM MDT",
+      "duration": "1m 16s",
+      "durationMs": 76420
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 09:44:57 AM MDT",
+      "end": "Sep 24, 2025, 09:48:16 AM MDT",
+      "duration": "3m 19s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T15:44:57.300+0000",
+      "recordingEnd": "2025-09-24T15:46:46.749+0000",
+      "conversationStart": "2025-09-24T15:44:57.204+0000",
+      "conversationEnd": "2025-09-24T15:48:16.779+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

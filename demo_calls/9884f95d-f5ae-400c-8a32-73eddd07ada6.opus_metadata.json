@@ -1,0 +1,57 @@
+{
+  "recordingId": "9884f95d-f5ae-400c-8a32-73eddd07ada6",
+  "conversationId": "7f6f78a9-8c1b-4df0-a217-9573f42bc721",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Birmingham AL",
+    "from": "tel:+15553084819",
+    "to": "tel:+15554461832",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 10:53:17 AM MDT",
+      "end": "Sep 22, 2025, 11:07:33 AM MDT",
+      "duration": "13m 39s",
+      "durationMs": 819140
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 10:53:17 AM MDT",
+      "end": "Sep 22, 2025, 11:09:03 AM MDT",
+      "duration": "15m 46s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T16:53:17.245+0000",
+      "recordingEnd": "2025-09-22T17:07:33.605+0000",
+      "conversationStart": "2025-09-22T16:53:17.032+0000",
+      "conversationEnd": "2025-09-22T17:09:03.863+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

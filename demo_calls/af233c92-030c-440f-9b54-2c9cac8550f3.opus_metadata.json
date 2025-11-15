@@ -1,0 +1,57 @@
+{
+  "recordingId": "af233c92-030c-440f-9b54-2c9cac8550f3",
+  "conversationId": "d8140d1f-d85e-4169-b44e-8f63485f5b96",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Norfolk VA",
+    "from": "tel:+15550829057",
+    "to": "tel:+15557818766",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 08:17:26 AM MDT",
+      "end": "Sep 25, 2025, 08:39:42 AM MDT",
+      "duration": "21m 47s",
+      "durationMs": 1307800
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 08:17:26 AM MDT",
+      "end": "Sep 25, 2025, 08:39:48 AM MDT",
+      "duration": "22m 21s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T14:17:26.611+0000",
+      "recordingEnd": "2025-09-25T14:39:42.963+0000",
+      "conversationStart": "2025-09-25T14:17:26.396+0000",
+      "conversationEnd": "2025-09-25T14:39:48.140+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

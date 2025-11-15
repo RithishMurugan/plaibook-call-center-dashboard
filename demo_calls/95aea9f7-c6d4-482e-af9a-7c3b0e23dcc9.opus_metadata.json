@@ -1,0 +1,57 @@
+{
+  "recordingId": "95aea9f7-c6d4-482e-af9a-7c3b0e23dcc9",
+  "conversationId": "1eba7270-bdde-4538-9a9d-52894e06af7d",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Dover DE",
+    "from": "tel:+15554377572",
+    "to": "tel:+15556772349",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 12:28:44 PM MDT",
+      "end": "Sep 22, 2025, 12:34:39 PM MDT",
+      "duration": "5m 17s",
+      "durationMs": 317620
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 12:28:44 PM MDT",
+      "end": "Sep 22, 2025, 12:35:22 PM MDT",
+      "duration": "6m 38s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T18:28:44.164+0000",
+      "recordingEnd": "2025-09-22T18:34:39.190+0000",
+      "conversationStart": "2025-09-22T18:28:44.026+0000",
+      "conversationEnd": "2025-09-22T18:35:22.088+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "96bc7dee-d5f1-4734-ba32-39b006c8bb01",
+  "conversationId": "6d0e47c2-bf20-4426-a34c-ddbb012d7186",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Laurel 238 MD",
+    "from": "tel:+15555238435",
+    "to": "tel:+15554675676",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 02:31:26 PM MDT",
+      "end": "Sep 25, 2025, 02:36:05 PM MDT",
+      "duration": "4m 5s",
+      "durationMs": 245080
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 02:31:26 PM MDT",
+      "end": "Sep 25, 2025, 02:37:35 PM MDT",
+      "duration": "6m 9s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T20:31:26.181+0000",
+      "recordingEnd": "2025-09-25T20:36:05.309+0000",
+      "conversationStart": "2025-09-25T20:31:26.039+0000",
+      "conversationEnd": "2025-09-25T20:37:35.295+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

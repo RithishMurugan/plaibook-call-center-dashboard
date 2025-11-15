@@ -1,0 +1,57 @@
+{
+  "recordingId": "aff7c518-9b5e-43a8-acb7-f309e65b9699",
+  "conversationId": "12ff152f-5793-4fe5-bcaf-b4583b3444a2",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Clarksville TN",
+    "from": "tel:+15556928771",
+    "to": "tel:+15556650001",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 03:21:55 PM MDT",
+      "end": "Sep 24, 2025, 03:25:44 PM MDT",
+      "duration": "3m 10s",
+      "durationMs": 190300
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 03:21:55 PM MDT",
+      "end": "Sep 24, 2025, 03:26:39 PM MDT",
+      "duration": "4m 44s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T21:21:55.347+0000",
+      "recordingEnd": "2025-09-24T21:25:44.830+0000",
+      "conversationStart": "2025-09-24T21:21:55.249+0000",
+      "conversationEnd": "2025-09-24T21:26:39.518+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "recordingId": "b73085a5-2320-470e-b46a-3681e9230579",
+  "conversationId": "b07f4d7c-4cb9-40bb-844d-10b58550e92e",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "VIRGINIA",
+    "from": "tel:+15559189670",
+    "to": "tel:+15557003707",
+    "wrapupCodes": [
+      "7fb334b0-0e9e-11e4-9191-0800200c9a66",
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 12:52:48 PM MDT",
+      "end": "Sep 24, 2025, 01:01:58 PM MDT",
+      "duration": "8m 12s",
+      "durationMs": 492400
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 12:52:48 PM MDT",
+      "end": "Sep 24, 2025, 01:03:28 PM MDT",
+      "duration": "10m 40s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T18:52:48.648+0000",
+      "recordingEnd": "2025-09-24T19:01:58.715+0000",
+      "conversationStart": "2025-09-24T18:52:48.354+0000",
+      "conversationEnd": "2025-09-24T19:03:28.649+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "ce09444a-8fea-4f95-9c7c-9ad46975fa26",
+  "conversationId": "62df7e8b-ab6d-4320-b47c-929cba89287f",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Murfreesboro TN",
+    "from": "tel:+15557936265",
+    "to": "tel:+15554993395",
+    "wrapupCodes": [
+      "c144699b-f085-40bc-946c-fc73aea59250"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 07:43:00 PM MDT",
+      "end": "Sep 24, 2025, 07:45:24 PM MDT",
+      "duration": "1m 47s",
+      "durationMs": 107180
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 07:43:00 PM MDT",
+      "end": "Sep 24, 2025, 07:46:54 PM MDT",
+      "duration": "3m 53s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T01:43:00.571+0000",
+      "recordingEnd": "2025-09-25T01:45:24.017+0000",
+      "conversationStart": "2025-09-25T01:43:00.338+0000",
+      "conversationEnd": "2025-09-25T01:46:54.166+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "35905504-ba97-4dfd-9cd0-a770d7490db0",
+  "conversationId": "e38d780e-58d3-4069-aa82-90f0fc9a0d0e",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Nassau NY",
+    "from": "tel:+15555090899",
+    "to": "tel:+15551891105",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 09:15:50 AM MDT",
+      "end": "Sep 23, 2025, 09:19:17 AM MDT",
+      "duration": "2m 56s",
+      "durationMs": 176600
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 09:15:50 AM MDT",
+      "end": "Sep 23, 2025, 09:20:46 AM MDT",
+      "duration": "4m 56s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T15:15:50.770+0000",
+      "recordingEnd": "2025-09-23T15:19:17.007+0000",
+      "conversationStart": "2025-09-23T15:15:50.163+0000",
+      "conversationEnd": "2025-09-23T15:20:46.969+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

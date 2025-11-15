@@ -1,0 +1,57 @@
+{
+  "recordingId": "aa8dff7a-9fe0-486b-ae37-3539970e85b0",
+  "conversationId": "08623d9b-ba67-444d-9c50-5d28a1292e24",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Burbank CA",
+    "from": "tel:+15554078675",
+    "to": "tel:+15551843034",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 02:31:21 PM MDT",
+      "end": "Sep 25, 2025, 02:36:34 PM MDT",
+      "duration": "4m 25s",
+      "durationMs": 265579
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 02:31:21 PM MDT",
+      "end": "Sep 25, 2025, 02:38:04 PM MDT",
+      "duration": "6m 42s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T20:31:21.301+0000",
+      "recordingEnd": "2025-09-25T20:36:34.016+0000",
+      "conversationStart": "2025-09-25T20:31:21.206+0000",
+      "conversationEnd": "2025-09-25T20:38:04.028+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

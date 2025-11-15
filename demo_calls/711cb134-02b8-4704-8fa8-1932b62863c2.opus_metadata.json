@@ -1,0 +1,63 @@
+{
+  "recordingId": "711cb134-02b8-4704-8fa8-1932b62863c2",
+  "conversationId": "a307180b-39d3-4b30-9d09-be5289627c07",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Richmond VA",
+    "from": "tel:+15556445121",
+    "to": "tel:+15555937761",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 26, 2025, 02:29:51 PM MDT",
+      "end": "Sep 26, 2025, 02:36:11 PM MDT",
+      "duration": "4m 24s",
+      "durationMs": 264980
+    },
+    "conversation": {
+      "start": "Sep 26, 2025, 02:29:51 PM MDT",
+      "end": "Sep 26, 2025, 02:37:11 PM MDT",
+      "duration": "7m 20s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-26T20:29:51.356+0000",
+      "recordingEnd": "2025-09-26T20:36:11.524+0000",
+      "conversationStart": "2025-09-26T20:29:51.092+0000",
+      "conversationEnd": "2025-09-26T20:37:11.506+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

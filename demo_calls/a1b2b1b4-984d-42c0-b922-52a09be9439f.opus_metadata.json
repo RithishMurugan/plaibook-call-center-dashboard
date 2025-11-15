@@ -1,0 +1,57 @@
+{
+  "recordingId": "a1b2b1b4-984d-42c0-b922-52a09be9439f",
+  "conversationId": "b82f216b-a6ed-4e88-a8dc-d15f1b2f0154",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Georgetown DE",
+    "from": "sip:67e1c214be81972df318cfe2+frontlinepest.orgspan.com@localhost",
+    "to": "tel:+15558962936",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 26, 2025, 06:54:31 PM MDT",
+      "end": "Sep 26, 2025, 06:57:56 PM MDT",
+      "duration": "3m 25s",
+      "durationMs": 205440
+    },
+    "conversation": {
+      "start": "Sep 26, 2025, 06:54:19 PM MDT",
+      "end": "Sep 26, 2025, 06:58:10 PM MDT",
+      "duration": "3m 50s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-27T00:54:31.338+0000",
+      "recordingEnd": "2025-09-27T00:57:56.778+0000",
+      "conversationStart": "2025-09-27T00:54:19.694+0000",
+      "conversationEnd": "2025-09-27T00:58:10.481+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

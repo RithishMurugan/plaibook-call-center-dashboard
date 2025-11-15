@@ -1,0 +1,57 @@
+{
+  "recordingId": "bc86bc35-1189-43f9-8e60-e2d4d72f3476",
+  "conversationId": "0d983823-ee9a-49fd-a817-915a01c743b4",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Harrisonburg VA",
+    "from": "tel:+15551855565",
+    "to": "tel:+15550782768",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 26, 2025, 02:13:15 PM MDT",
+      "end": "Sep 26, 2025, 02:18:12 PM MDT",
+      "duration": "4m 56s",
+      "durationMs": 296580
+    },
+    "conversation": {
+      "start": "Sep 26, 2025, 02:05:45 PM MDT",
+      "end": "Sep 26, 2025, 02:19:07 PM MDT",
+      "duration": "13m 22s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-26T20:13:15.828+0000",
+      "recordingEnd": "2025-09-26T20:18:12.408+0000",
+      "conversationStart": "2025-09-26T20:05:45.549+0000",
+      "conversationEnd": "2025-09-26T20:19:07.717+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

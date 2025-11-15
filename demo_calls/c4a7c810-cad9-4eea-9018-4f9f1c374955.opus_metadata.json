@@ -1,0 +1,66 @@
+{
+  "recordingId": "c4a7c810-cad9-4eea-9018-4f9f1c374955",
+  "conversationId": "7f498b46-b3c4-4fd7-a878-2ddda2d5496a",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Philadelphia PA",
+    "from": "tel:+15558052751",
+    "to": "tel:+15556723025",
+    "wrapupCodes": [
+      "c674e3c0-169d-4c93-b283-88fd7ba67e7c"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 03:10:34 PM MDT",
+      "end": "Sep 23, 2025, 03:16:35 PM MDT",
+      "duration": "5m 9s",
+      "durationMs": 309620
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 03:10:34 PM MDT",
+      "end": "Sep 23, 2025, 03:17:58 PM MDT",
+      "duration": "7m 23s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T21:10:34.903+0000",
+      "recordingEnd": "2025-09-23T21:16:35.023+0000",
+      "conversationStart": "2025-09-23T21:10:34.839+0000",
+      "conversationEnd": "2025-09-23T21:17:58.508+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    },
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "e9ef2c22-3c68-4846-82f9-887329a77d0d",
+  "conversationId": "a2f74dd6-a3cd-43a7-980c-53b3d3652d07",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Nashville TN",
+    "from": "tel:+15556386462",
+    "to": "tel:+15555764590",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 08:39:56 AM MDT",
+      "end": "Sep 22, 2025, 08:55:25 AM MDT",
+      "duration": "14m 33s",
+      "durationMs": 873880
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 08:39:56 AM MDT",
+      "end": "Sep 22, 2025, 08:56:55 AM MDT",
+      "duration": "16m 59s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T14:39:56.754+0000",
+      "recordingEnd": "2025-09-22T14:55:25.799+0000",
+      "conversationStart": "2025-09-22T14:39:56.597+0000",
+      "conversationEnd": "2025-09-22T14:56:55.770+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

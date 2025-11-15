@@ -1,0 +1,63 @@
+{
+  "recordingId": "fa988092-74d3-44d3-b01a-349d59ed3a4c",
+  "conversationId": "eeabcedc-606b-492c-8b66-ad13a28eba32",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Dover DE",
+    "from": "tel:+15550160331",
+    "to": "tel:+15552295818",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 03:07:51 PM MDT",
+      "end": "Sep 22, 2025, 03:13:34 PM MDT",
+      "duration": "4m 34s",
+      "durationMs": 274860
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 03:07:51 PM MDT",
+      "end": "Sep 22, 2025, 03:14:33 PM MDT",
+      "duration": "6m 42s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T21:07:51.350+0000",
+      "recordingEnd": "2025-09-22T21:13:34.002+0000",
+      "conversationStart": "2025-09-22T21:07:51.229+0000",
+      "conversationEnd": "2025-09-22T21:14:33.996+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

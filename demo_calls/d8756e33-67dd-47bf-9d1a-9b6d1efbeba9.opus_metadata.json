@@ -1,0 +1,64 @@
+{
+  "recordingId": "d8756e33-67dd-47bf-9d1a-9b6d1efbeba9",
+  "conversationId": "fd49129f-be4f-478d-91bd-5ff65fb010e4",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Leonardtown MD",
+    "from": "tel:+15559811382",
+    "to": "tel:+15553796633",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca",
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 08:41:16 AM MDT",
+      "end": "Sep 24, 2025, 09:04:32 AM MDT",
+      "duration": "16m 39s",
+      "durationMs": 999740
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 08:41:16 AM MDT",
+      "end": "Sep 24, 2025, 09:05:13 AM MDT",
+      "duration": "23m 57s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T14:41:16.866+0000",
+      "recordingEnd": "2025-09-24T15:04:32.789+0000",
+      "conversationStart": "2025-09-24T14:41:16.763+0000",
+      "conversationEnd": "2025-09-24T15:05:13.908+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

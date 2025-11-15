@@ -1,0 +1,57 @@
+{
+  "recordingId": "e2c6cc5a-2aa4-44bb-b197-444751445a98",
+  "conversationId": "8b85e7bc-0c8f-440c-b8aa-11f84f5b6feb",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Apex NC",
+    "from": "tel:+15554106407",
+    "to": "tel:+15558777976",
+    "wrapupCodes": [
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 02:37:02 PM MDT",
+      "end": "Sep 24, 2025, 02:45:13 PM MDT",
+      "duration": "7m 32s",
+      "durationMs": 452620
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 02:37:01 PM MDT",
+      "end": "Sep 24, 2025, 02:45:36 PM MDT",
+      "duration": "8m 34s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T20:37:02.146+0000",
+      "recordingEnd": "2025-09-24T20:45:13.354+0000",
+      "conversationStart": "2025-09-24T20:37:01.992+0000",
+      "conversationEnd": "2025-09-24T20:45:36.933+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

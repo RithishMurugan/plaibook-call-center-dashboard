@@ -1,0 +1,57 @@
+{
+  "recordingId": "ebf07fcc-7cff-4508-9d22-9e27ed4ba034",
+  "conversationId": "8df18d80-439b-4101-92c5-9fcfc62d76ab",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Laurel 238 MD",
+    "from": "tel:+15552235685",
+    "to": "tel:+15555823185",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 04:23:55 PM MDT",
+      "end": "Sep 23, 2025, 04:26:59 PM MDT",
+      "duration": "2m 34s",
+      "durationMs": 154820
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 04:23:54 PM MDT",
+      "end": "Sep 23, 2025, 04:27:33 PM MDT",
+      "duration": "3m 38s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T22:23:55.130+0000",
+      "recordingEnd": "2025-09-23T22:26:59.781+0000",
+      "conversationStart": "2025-09-23T22:23:54.979+0000",
+      "conversationEnd": "2025-09-23T22:27:33.574+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

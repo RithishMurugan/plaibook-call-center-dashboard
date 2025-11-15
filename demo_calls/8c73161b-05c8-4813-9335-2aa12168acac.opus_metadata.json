@@ -1,0 +1,57 @@
+{
+  "recordingId": "8c73161b-05c8-4813-9335-2aa12168acac",
+  "conversationId": "6312e99b-ec3b-473a-abff-599635f715cb",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Smyrna TN",
+    "from": "tel:+15553784397",
+    "to": "tel:+15555411024",
+    "wrapupCodes": [
+      "c674e3c0-169d-4c93-b283-88fd7ba67e7c"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 03:47:31 PM MDT",
+      "end": "Sep 23, 2025, 03:49:09 PM MDT",
+      "duration": "56s",
+      "durationMs": 56320
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 03:47:31 PM MDT",
+      "end": "Sep 23, 2025, 03:50:11 PM MDT",
+      "duration": "2m 40s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T21:47:31.795+0000",
+      "recordingEnd": "2025-09-23T21:49:09.073+0000",
+      "conversationStart": "2025-09-23T21:47:31.644+0000",
+      "conversationEnd": "2025-09-23T21:50:11.961+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "7f0e2aac-7c28-4851-9095-e43108f0fd9e",
+  "conversationId": "766f0bf8-bae4-4cc3-aa94-421b60e03299",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Catonsville MD",
+    "from": "tel:+15555202336",
+    "to": "tel:+15553566674",
+    "wrapupCodes": [
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 02:39:17 PM MDT",
+      "end": "Sep 23, 2025, 02:40:30 PM MDT",
+      "duration": "38s",
+      "durationMs": 38500
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 02:39:17 PM MDT",
+      "end": "Sep 23, 2025, 02:42:00 PM MDT",
+      "duration": "2m 42s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T20:39:17.957+0000",
+      "recordingEnd": "2025-09-23T20:40:30.142+0000",
+      "conversationStart": "2025-09-23T20:39:17.784+0000",
+      "conversationEnd": "2025-09-23T20:42:00.384+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

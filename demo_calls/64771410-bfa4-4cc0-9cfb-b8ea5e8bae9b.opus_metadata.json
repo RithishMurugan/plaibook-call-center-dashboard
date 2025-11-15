@@ -1,0 +1,57 @@
+{
+  "recordingId": "64771410-bfa4-4cc0-9cfb-b8ea5e8bae9b",
+  "conversationId": "4dc3acdb-cc09-4541-ab3c-71ff215e3502",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Birmingham AL",
+    "from": "tel:+15559149712",
+    "to": "tel:+15553725025",
+    "wrapupCodes": [
+      "c674e3c0-169d-4c93-b283-88fd7ba67e7c"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 26, 2025, 03:32:56 PM MDT",
+      "end": "Sep 26, 2025, 03:44:45 PM MDT",
+      "duration": "11m 18s",
+      "durationMs": 678860
+    },
+    "conversation": {
+      "start": "Sep 26, 2025, 03:32:56 PM MDT",
+      "end": "Sep 26, 2025, 03:45:08 PM MDT",
+      "duration": "12m 11s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-26T21:32:56.566+0000",
+      "recordingEnd": "2025-09-26T21:44:45.963+0000",
+      "conversationStart": "2025-09-26T21:32:56.460+0000",
+      "conversationEnd": "2025-09-26T21:45:08.393+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

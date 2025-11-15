@@ -1,0 +1,64 @@
+{
+  "recordingId": "dc11d412-400a-4f88-bdf4-56dc0e0eea7b",
+  "conversationId": "59d351c4-dc46-4da2-aaee-ee02fa9d2d1b",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Wilmington DE",
+    "from": "tel:+15554316394",
+    "to": "tel:+15552328708",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT",
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 01:17:12 PM MDT",
+      "end": "Sep 22, 2025, 01:26:15 PM MDT",
+      "duration": "8m 31s",
+      "durationMs": 511240
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 01:17:12 PM MDT",
+      "end": "Sep 22, 2025, 01:27:15 PM MDT",
+      "duration": "10m 3s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T19:17:12.252+0000",
+      "recordingEnd": "2025-09-22T19:26:15.658+0000",
+      "conversationStart": "2025-09-22T19:17:12.126+0000",
+      "conversationEnd": "2025-09-22T19:27:15.664+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

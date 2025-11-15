@@ -1,0 +1,57 @@
+{
+  "recordingId": "a63e657c-f4cc-4d09-8061-3a3d5980102e",
+  "conversationId": "ce5eb0cf-dac5-46b6-b5a5-41d7b38b82ce",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Atlanta Northeast GA",
+    "from": "tel:+15557501320",
+    "to": "tel:+15558114849",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 03:15:03 PM MDT",
+      "end": "Sep 25, 2025, 03:21:30 PM MDT",
+      "duration": "5m 49s",
+      "durationMs": 349220
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 03:15:03 PM MDT",
+      "end": "Sep 25, 2025, 03:23:00 PM MDT",
+      "duration": "7m 57s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T21:15:03.430+0000",
+      "recordingEnd": "2025-09-25T21:21:30.441+0000",
+      "conversationStart": "2025-09-25T21:15:03.315+0000",
+      "conversationEnd": "2025-09-25T21:23:00.425+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

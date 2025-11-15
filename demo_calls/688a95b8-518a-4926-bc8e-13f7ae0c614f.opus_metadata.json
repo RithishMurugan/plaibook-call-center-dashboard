@@ -1,0 +1,57 @@
+{
+  "recordingId": "688a95b8-518a-4926-bc8e-13f7ae0c614f",
+  "conversationId": "8890007d-5e4b-43ee-9e22-a9f6e0b5f8ca",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Livermore CA",
+    "from": "tel:+15552772216",
+    "to": "tel:+15559332035",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 02:25:01 PM MDT",
+      "end": "Sep 24, 2025, 02:43:52 PM MDT",
+      "duration": "18m 22s",
+      "durationMs": 1102400
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 02:25:01 PM MDT",
+      "end": "Sep 24, 2025, 02:45:16 PM MDT",
+      "duration": "20m 14s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T20:25:01.630+0000",
+      "recordingEnd": "2025-09-24T20:43:52.498+0000",
+      "conversationStart": "2025-09-24T20:25:01.351+0000",
+      "conversationEnd": "2025-09-24T20:45:16.281+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

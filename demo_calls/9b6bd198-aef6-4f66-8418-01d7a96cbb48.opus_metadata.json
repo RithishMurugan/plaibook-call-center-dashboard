@@ -1,0 +1,57 @@
+{
+  "recordingId": "9b6bd198-aef6-4f66-8418-01d7a96cbb48",
+  "conversationId": "25a4984a-cf39-48d1-aa95-63431418c466",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Fort Lauderdale FL",
+    "from": "tel:+15555980156",
+    "to": "tel:+15558489245",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 26, 2025, 03:00:25 PM MDT",
+      "end": "Sep 26, 2025, 03:06:34 PM MDT",
+      "duration": "5m 46s",
+      "durationMs": 346780
+    },
+    "conversation": {
+      "start": "Sep 26, 2025, 03:00:25 PM MDT",
+      "end": "Sep 26, 2025, 03:08:04 PM MDT",
+      "duration": "7m 39s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-26T21:00:25.199+0000",
+      "recordingEnd": "2025-09-26T21:06:34.659+0000",
+      "conversationStart": "2025-09-26T21:00:25.056+0000",
+      "conversationEnd": "2025-09-26T21:08:04.649+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

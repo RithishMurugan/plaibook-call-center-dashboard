@@ -1,0 +1,57 @@
+{
+  "recordingId": "58020e90-4a82-47e5-a3c2-0c29c76eacf5",
+  "conversationId": "8c56aab3-5ea2-4dd3-a49b-ea7020b79940",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "NEW JERSEY",
+    "from": "tel:+15551629141",
+    "to": "tel:+15559891868",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 04:38:40 PM MDT",
+      "end": "Sep 24, 2025, 04:42:30 PM MDT",
+      "duration": "3m 22s",
+      "durationMs": 202680
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 04:38:40 PM MDT",
+      "end": "Sep 24, 2025, 04:43:41 PM MDT",
+      "duration": "5m 0s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T22:38:40.932+0000",
+      "recordingEnd": "2025-09-24T22:42:30.299+0000",
+      "conversationStart": "2025-09-24T22:38:40.813+0000",
+      "conversationEnd": "2025-09-24T22:43:41.325+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

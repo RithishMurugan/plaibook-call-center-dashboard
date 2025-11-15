@@ -1,0 +1,66 @@
+{
+  "recordingId": "e7a01078-b7b9-4640-91c3-d9eef7627007",
+  "conversationId": "fe92d06b-5c2d-483a-8ba8-928d2a1c6dff",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Madison WI",
+    "from": "tel:+15550059155",
+    "to": "tel:+15557028822",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 01:19:45 PM MDT",
+      "end": "Sep 25, 2025, 01:21:59 PM MDT",
+      "duration": "33s",
+      "durationMs": 33700
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 01:19:45 PM MDT",
+      "end": "Sep 25, 2025, 01:23:29 PM MDT",
+      "duration": "3m 43s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T19:19:45.803+0000",
+      "recordingEnd": "2025-09-25T19:21:59.151+0000",
+      "conversationStart": "2025-09-25T19:19:45.680+0000",
+      "conversationEnd": "2025-09-25T19:23:29.166+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    },
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

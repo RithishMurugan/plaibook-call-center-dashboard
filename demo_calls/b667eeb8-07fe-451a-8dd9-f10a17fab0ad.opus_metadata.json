@@ -1,0 +1,57 @@
+{
+  "recordingId": "b667eeb8-07fe-451a-8dd9-f10a17fab0ad",
+  "conversationId": "f2ae90de-da74-441d-87d8-d4875fa3e426",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Centreville MD",
+    "from": "tel:+15556490746",
+    "to": "tel:+15554349107",
+    "wrapupCodes": [
+      "c674e3c0-169d-4c93-b283-88fd7ba67e7c"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 03:59:37 PM MDT",
+      "end": "Sep 23, 2025, 04:16:36 PM MDT",
+      "duration": "16m 4s",
+      "durationMs": 964660
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 03:59:37 PM MDT",
+      "end": "Sep 23, 2025, 04:16:56 PM MDT",
+      "duration": "17m 19s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T21:59:37.804+0000",
+      "recordingEnd": "2025-09-23T22:16:36.147+0000",
+      "conversationStart": "2025-09-23T21:59:37.656+0000",
+      "conversationEnd": "2025-09-23T22:16:56.949+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

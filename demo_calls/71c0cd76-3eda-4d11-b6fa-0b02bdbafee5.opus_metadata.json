@@ -1,0 +1,72 @@
+{
+  "recordingId": "71c0cd76-3eda-4d11-b6fa-0b02bdbafee5",
+  "conversationId": "b6d1dd6d-9350-4ce3-b7ce-db679b51d9f2",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Herndon VA",
+    "from": "tel:+15554130868",
+    "to": "tel:+15557237383",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 02:02:13 PM MDT",
+      "end": "Sep 25, 2025, 02:05:47 PM MDT",
+      "duration": "3m 11s",
+      "durationMs": 191520
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 02:02:12 PM MDT",
+      "end": "Sep 25, 2025, 02:06:33 PM MDT",
+      "duration": "4m 21s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T20:02:13.171+0000",
+      "recordingEnd": "2025-09-25T20:05:47.851+0000",
+      "conversationStart": "2025-09-25T20:02:12.907+0000",
+      "conversationEnd": "2025-09-25T20:06:33.968+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    },
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

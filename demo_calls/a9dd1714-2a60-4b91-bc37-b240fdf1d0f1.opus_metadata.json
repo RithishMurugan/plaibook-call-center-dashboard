@@ -1,0 +1,57 @@
+{
+  "recordingId": "a9dd1714-2a60-4b91-bc37-b240fdf1d0f1",
+  "conversationId": "17afec77-361c-419d-8eda-0384c949e11e",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Tampa FL",
+    "from": "tel:+15559372256",
+    "to": "tel:+15552648885",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 10:30:22 AM MDT",
+      "end": "Sep 24, 2025, 10:33:15 AM MDT",
+      "duration": "1m 42s",
+      "durationMs": 102520
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 10:30:22 AM MDT",
+      "end": "Sep 24, 2025, 10:34:45 AM MDT",
+      "duration": "4m 23s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T16:30:22.648+0000",
+      "recordingEnd": "2025-09-24T16:33:15.551+0000",
+      "conversationStart": "2025-09-24T16:30:22.496+0000",
+      "conversationEnd": "2025-09-24T16:34:45.542+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

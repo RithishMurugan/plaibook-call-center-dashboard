@@ -1,0 +1,64 @@
+{
+  "recordingId": "26ae6dfb-46b0-4199-a775-1888c3cf87c8",
+  "conversationId": "f92d0ec4-493b-4079-9b38-1ef965193957",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Starkville MS",
+    "from": "tel:+15558462166",
+    "to": "tel:+15554667043",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT",
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 09:07:27 AM MDT",
+      "end": "Sep 22, 2025, 09:13:04 AM MDT",
+      "duration": "4m 37s",
+      "durationMs": 277340
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 09:07:27 AM MDT",
+      "end": "Sep 22, 2025, 09:14:04 AM MDT",
+      "duration": "6m 36s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T15:07:27.341+0000",
+      "recordingEnd": "2025-09-22T15:13:04.226+0000",
+      "conversationStart": "2025-09-22T15:07:27.246+0000",
+      "conversationEnd": "2025-09-22T15:14:04.220+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

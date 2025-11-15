@@ -1,0 +1,57 @@
+{
+  "recordingId": "ea1ceac5-ed7a-4a8e-b970-28dcf5d9828f",
+  "conversationId": "0790872c-3cf9-48e0-a364-8ccd6e7ed7d6",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Parkville MD",
+    "from": "tel:+15550227818",
+    "to": "tel:+15551995122",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 10:25:00 AM MDT",
+      "end": "Sep 23, 2025, 10:28:22 AM MDT",
+      "duration": "2m 53s",
+      "durationMs": 173080
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 10:25:00 AM MDT",
+      "end": "Sep 23, 2025, 10:29:52 AM MDT",
+      "duration": "4m 51s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T16:25:00.586+0000",
+      "recordingEnd": "2025-09-23T16:28:22.026+0000",
+      "conversationStart": "2025-09-23T16:25:00.480+0000",
+      "conversationEnd": "2025-09-23T16:29:52.045+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "recordingId": "2972681a-7b8f-45b7-aa88-79a077c54baf",
+  "conversationId": "de5d2991-5a3e-43e8-b1a8-1b7007870706",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Waldorf MD",
+    "from": "tel:+15559246365",
+    "to": "tel:+15556932261",
+    "wrapupCodes": [
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 10:17:30 AM MDT",
+      "end": "Sep 24, 2025, 10:20:14 AM MDT",
+      "duration": "1m 39s",
+      "durationMs": 99900
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 10:17:29 AM MDT",
+      "end": "Sep 24, 2025, 10:20:20 AM MDT",
+      "duration": "2m 50s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T16:17:30.119+0000",
+      "recordingEnd": "2025-09-24T16:20:14.736+0000",
+      "conversationStart": "2025-09-24T16:17:29.913+0000",
+      "conversationEnd": "2025-09-24T16:20:20.430+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

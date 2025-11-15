@@ -1,0 +1,57 @@
+{
+  "recordingId": "681bc321-c23a-46aa-b6a3-0b9d8051ed2c",
+  "conversationId": "b941f000-94ce-42fd-ad56-090b19795e54",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Stafford VA",
+    "from": "tel:+15550122339",
+    "to": "tel:+15550237000",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 11:45:27 AM MDT",
+      "end": "Sep 24, 2025, 11:48:54 AM MDT",
+      "duration": "2m 16s",
+      "durationMs": 136979
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 11:45:27 AM MDT",
+      "end": "Sep 24, 2025, 11:50:24 AM MDT",
+      "duration": "4m 56s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T17:45:27.381+0000",
+      "recordingEnd": "2025-09-24T17:48:54.157+0000",
+      "conversationStart": "2025-09-24T17:45:27.255+0000",
+      "conversationEnd": "2025-09-24T17:50:24.117+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

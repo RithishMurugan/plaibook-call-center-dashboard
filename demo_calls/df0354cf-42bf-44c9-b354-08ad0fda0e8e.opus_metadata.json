@@ -1,0 +1,57 @@
+{
+  "recordingId": "df0354cf-42bf-44c9-b354-08ad0fda0e8e",
+  "conversationId": "a4a4b25c-94b8-43ed-8cdc-689d0a963c57",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "White Bluff TN",
+    "from": "tel:+15558977822",
+    "to": "tel:+15555902745",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 23, 2025, 07:37:16 AM MDT",
+      "end": "Sep 23, 2025, 07:41:58 AM MDT",
+      "duration": "4m 8s",
+      "durationMs": 248220
+    },
+    "conversation": {
+      "start": "Sep 23, 2025, 07:37:16 AM MDT",
+      "end": "Sep 23, 2025, 07:43:28 AM MDT",
+      "duration": "6m 12s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-23T13:37:16.577+0000",
+      "recordingEnd": "2025-09-23T13:41:58.773+0000",
+      "conversationStart": "2025-09-23T13:37:16.472+0000",
+      "conversationEnd": "2025-09-23T13:43:28.764+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

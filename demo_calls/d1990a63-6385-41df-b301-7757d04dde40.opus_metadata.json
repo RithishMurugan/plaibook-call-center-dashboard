@@ -1,0 +1,64 @@
+{
+  "recordingId": "d1990a63-6385-41df-b301-7757d04dde40",
+  "conversationId": "60920907-2024-4ae1-9f83-5784ea229ab3",
+  "call": {
+    "direction": "outbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Nashville TN",
+    "from": "tel:+15557903084",
+    "to": "tel:+15550394118",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT",
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 11:09:22 AM MDT",
+      "end": "Sep 22, 2025, 11:16:37 AM MDT",
+      "duration": "6m 14s",
+      "durationMs": 374240
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 11:04:52 AM MDT",
+      "end": "Sep 22, 2025, 11:17:37 AM MDT",
+      "duration": "12m 45s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T17:09:22.189+0000",
+      "recordingEnd": "2025-09-22T17:16:37.740+0000",
+      "conversationStart": "2025-09-22T17:04:52.479+0000",
+      "conversationEnd": "2025-09-22T17:17:37.777+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

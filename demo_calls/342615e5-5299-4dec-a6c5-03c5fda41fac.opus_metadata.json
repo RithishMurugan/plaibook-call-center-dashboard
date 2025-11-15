@@ -1,0 +1,57 @@
+{
+  "recordingId": "342615e5-5299-4dec-a6c5-03c5fda41fac",
+  "conversationId": "5ee16a3d-a8a8-4222-b555-9da7a3c14b54",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Washington MD",
+    "from": "tel:+15556129299",
+    "to": "tel:+15551373704",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 10:53:34 AM MDT",
+      "end": "Sep 22, 2025, 10:54:52 AM MDT",
+      "duration": "49s",
+      "durationMs": 49020
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 10:53:34 AM MDT",
+      "end": "Sep 22, 2025, 10:56:22 AM MDT",
+      "duration": "2m 48s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T16:53:34.940+0000",
+      "recordingEnd": "2025-09-22T16:54:52.915+0000",
+      "conversationStart": "2025-09-22T16:53:34.814+0000",
+      "conversationEnd": "2025-09-22T16:56:22.881+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

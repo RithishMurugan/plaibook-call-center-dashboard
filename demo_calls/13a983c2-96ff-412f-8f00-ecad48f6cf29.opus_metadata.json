@@ -1,0 +1,57 @@
+{
+  "recordingId": "13a983c2-96ff-412f-8f00-ecad48f6cf29",
+  "conversationId": "e300a44f-5d85-499e-9505-9f2045ce6b59",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Lancaster CA",
+    "from": "tel:+15557397352",
+    "to": "tel:+15558276488",
+    "wrapupCodes": [
+      "32342892-1275-442e-ae8a-e17dd260e8ef"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 25, 2025, 11:46:55 AM MDT",
+      "end": "Sep 25, 2025, 11:47:38 AM MDT",
+      "duration": "3s",
+      "durationMs": 3500
+    },
+    "conversation": {
+      "start": "Sep 25, 2025, 11:46:55 AM MDT",
+      "end": "Sep 25, 2025, 11:47:49 AM MDT",
+      "duration": "54s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-25T17:46:55.295+0000",
+      "recordingEnd": "2025-09-25T17:47:38.926+0000",
+      "conversationStart": "2025-09-25T17:46:55.181+0000",
+      "conversationEnd": "2025-09-25T17:47:49.958+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "d1e87f16-c111-44ca-a1a5-536048213006",
+      "name": "Blare Walker",
+      "email": "bwalker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "bwalker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

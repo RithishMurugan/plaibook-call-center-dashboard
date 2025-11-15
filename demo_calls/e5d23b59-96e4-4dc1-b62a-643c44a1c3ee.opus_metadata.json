@@ -1,0 +1,69 @@
+{
+  "recordingId": "e5d23b59-96e4-4dc1-b62a-643c44a1c3ee",
+  "conversationId": "4f2a3e80-11b3-4f8a-9067-fb8d0beb36c0",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Ashton 236 MD",
+    "from": "tel:+15550998482",
+    "to": "tel:+15557240363",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 22, 2025, 09:46:44 AM MDT",
+      "end": "Sep 22, 2025, 09:57:41 AM MDT",
+      "duration": "6m 30s",
+      "durationMs": 390580
+    },
+    "conversation": {
+      "start": "Sep 22, 2025, 09:46:44 AM MDT",
+      "end": "Sep 22, 2025, 09:58:41 AM MDT",
+      "duration": "11m 56s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-22T15:46:44.822+0000",
+      "recordingEnd": "2025-09-22T15:57:41.456+0000",
+      "conversationStart": "2025-09-22T15:46:44.695+0000",
+      "conversationEnd": "2025-09-22T15:58:41.421+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "5d073b31-c316-42d1-8c48-a295570d7fc4",
+      "name": "Abbie Smith",
+      "email": "asmith@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "asmith@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "7cc1966c-3e51-4046-9fc6-566a03514e31",
+      "name": "Account Managers",
+      "description": "Internal Queue used to transfer calls to Account Managers",
+      "memberCount": 7
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

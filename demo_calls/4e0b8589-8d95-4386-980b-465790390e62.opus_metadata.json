@@ -1,0 +1,70 @@
+{
+  "recordingId": "4e0b8589-8d95-4386-980b-465790390e62",
+  "conversationId": "b02d52cd-a98e-44b9-8f71-6f400a1aa737",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "North East MD",
+    "from": "tel:+15555882797",
+    "to": "tel:+15556315828",
+    "wrapupCodes": [
+      "ININ-WRAP-UP-TIMEOUT",
+      "eb810ac3-6450-4745-9bb9-ba1bd7f14335"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 01:13:16 PM MDT",
+      "end": "Sep 24, 2025, 01:33:52 PM MDT",
+      "duration": "15m 22s",
+      "durationMs": 922380
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 01:13:16 PM MDT",
+      "end": "Sep 24, 2025, 01:35:22 PM MDT",
+      "duration": "22m 6s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T19:13:16.684+0000",
+      "recordingEnd": "2025-09-24T19:33:52.856+0000",
+      "conversationStart": "2025-09-24T19:13:16.555+0000",
+      "conversationEnd": "2025-09-24T19:35:22.819+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "7cc1966c-3e51-4046-9fc6-566a03514e31",
+      "name": "Account Managers",
+      "description": "Internal Queue used to transfer calls to Account Managers",
+      "memberCount": 7
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}

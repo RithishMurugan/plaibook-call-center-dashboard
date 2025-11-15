@@ -1,0 +1,64 @@
+{
+  "recordingId": "ab1b3f67-052e-4ffa-95d8-6f029762829b",
+  "conversationId": "07f3cd9c-71d7-4de9-9158-fe0044fb3f61",
+  "call": {
+    "direction": "inbound",
+    "type": "Call",
+    "subtype": "Trunk",
+    "subject": "Springfield IL",
+    "from": "tel:+15551935903",
+    "to": "tel:+15556999564",
+    "wrapupCodes": [
+      "c732941b-fa5d-4ee6-95c9-28adecde52ca",
+      "ININ-WRAP-UP-TIMEOUT"
+    ]
+  },
+  "timing": {
+    "recording": {
+      "start": "Sep 24, 2025, 01:47:49 PM MDT",
+      "end": "Sep 24, 2025, 01:57:40 PM MDT",
+      "duration": "8m 45s",
+      "durationMs": 525200
+    },
+    "conversation": {
+      "start": "Sep 24, 2025, 01:47:49 PM MDT",
+      "end": "Sep 24, 2025, 01:59:10 PM MDT",
+      "duration": "11m 21s"
+    },
+    "iso": {
+      "recordingStart": "2025-09-24T19:47:49.828+0000",
+      "recordingEnd": "2025-09-24T19:57:40.588+0000",
+      "conversationStart": "2025-09-24T19:47:49.697+0000",
+      "conversationEnd": "2025-09-24T19:59:10.779+0000"
+    }
+  },
+  "agents": [
+    {
+      "id": "bcb6a4ff-b10e-4ae1-827f-d23ca7dceea5",
+      "name": "Barker Olsen",
+      "email": "barker@examplepest.com",
+      "department": "Inside Sales",
+      "title": null,
+      "state": "active",
+      "username": "barker@examplepest.com"
+    }
+  ],
+  "queues": [
+    {
+      "id": "00b660bc-39ea-4bf8-b44b-721b07e0360b",
+      "name": "Customer Service",
+      "description": null,
+      "memberCount": 27
+    },
+    {
+      "id": "a774326b-78e3-4c9b-8296-bf6312959619",
+      "name": "Inside Sales",
+      "description": "Inside Sales Queue for both Voice and SMS",
+      "memberCount": 13
+    }
+  ],
+  "technical": {
+    "organizationId": "60c8bed1-bdb5-488d-9968-1376a2abdd95",
+    "provider": "Edge"
+  }
+}
