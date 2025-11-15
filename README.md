@@ -333,7 +333,7 @@ The complete dashboard is captured in the `screenshots/` folder. Here's a visual
 
 ### 1. Nate's View - Answer Cards
 
-![Nate's View](./screenshots/nates-view.png)
+![Nate's View](./Screenshots/nates-view.png)
 
 Four prominent cards that directly answer Nate's business questions:
 - **Termite Inspection Attachment** (95.2% attachment rate)
@@ -343,7 +343,7 @@ Four prominent cards that directly answer Nate's business questions:
 
 ### 2. Upselling Performance
 
-![Upselling Performance](./screenshots/upselling-performance.png)
+![Upselling Performance](./Screenshots/upselling-performance.png)
 
 Tracks termite inspection upsells with key metrics:
 - 63 recurring plans sold
@@ -354,7 +354,7 @@ Tracks termite inspection upsells with key metrics:
 
 ### 3. Follow-up Opportunities
 
-![Follow-up Opportunities](./screenshots/follow-up-opportunities.png)
+![Follow-up Opportunities](./Screenshots/follow-up-opportunities.png)
 
 Comprehensive follow-up tracking:
 - 61 follow-up requests captured
@@ -365,7 +365,7 @@ Comprehensive follow-up tracking:
 
 ### 4. Sales vs Inspections
 
-![Sales vs Inspections](./screenshots/sales-vs-inspections.png)
+![Sales vs Inspections](./Screenshots/sales-vs-inspections.png)
 
 Clear distinction between immediate sales and strategic bookings:
 - 64 closed deals (14.2% sales rate)
@@ -375,7 +375,7 @@ Clear distinction between immediate sales and strategic bookings:
 
 ### 5. Revenue Impact Analysis
 
-![Revenue Impact Analysis](./screenshots/revenue-impact.png)
+![Revenue Impact Analysis](./Screenshots/revenue-impact.png)
 
 Estimated monthly revenue leakage breakdown:
 - **Missed Follow-ups**: $5,490/month
@@ -388,7 +388,7 @@ Estimated monthly revenue leakage breakdown:
 
 ### 6. Missed Opportunity Patterns
 
-![Missed Opportunity Patterns](./screenshots/missed-opportunity-patterns.png)
+![Missed Opportunity Patterns](./Screenshots/missed-opportunity-patterns.png)
 
 Rule-based pattern detection:
 - **Follow-up Requested But Not Acted On**: 57 calls (HIGH Priority) - $34,200 impact
@@ -398,7 +398,7 @@ Rule-based pattern detection:
 
 ### 7. Rep Coaching Suggestions
 
-![Rep Coaching Suggestions](./screenshots/rep-coaching.png)
+![Rep Coaching Suggestions](./Screenshots/rep-coaching.png)
 
 Personalized coaching recommendations per agent:
 - **Abbie Smith**: Task tracking (HIGH), Conversion strategy (HIGH), Upsell initiative (MEDIUM)
@@ -409,7 +409,7 @@ Personalized coaching recommendations per agent:
 
 ### 8. LLM-Powered Transcript Analysis
 
-![LLM Insights](./screenshots/llm-insights.png)
+![LLM Insights](./Screenshots/llm-insights.png)
 
 AI-extracted insights from demo subset (5-10 calls):
 - Customer intent analysis
@@ -421,7 +421,7 @@ AI-extracted insights from demo subset (5-10 calls):
 
 ### 9. Sales Pipeline Analysis
 
-![Sales Pipeline](./screenshots/sales-pipeline.png)
+![Sales Pipeline](./Screenshots/sales-pipeline.png)
 
 Dual pipeline view with toggle:
 - **Phone Sales Pipeline**: 451 calls → 322 pitches → 20 objections → 63 sales closed
@@ -431,7 +431,7 @@ Dual pipeline view with toggle:
 
 ### 10. Additional Insights
 
-![Additional Insights](./screenshots/additional-insights.png)
+![Additional Insights](./Screenshots/additional-insights.png)
 
 Critical insights and opportunities:
 - Agent follow-up performance tracking
@@ -442,7 +442,7 @@ Critical insights and opportunities:
 
 ### 11. Agent Follow-up Performance
 
-![Agent Follow-up Performance](./screenshots/agent-follow-up.png)
+![Agent Follow-up Performance](./Screenshots/agent-follow-up.png)
 
 Detailed agent-level follow-up tracking:
 - Individual agent follow-up capture rates
@@ -453,7 +453,7 @@ Detailed agent-level follow-up tracking:
 
 ### 12. Top Performing Agents
 
-![Top Performing Agents](./screenshots/top-perform.png)
+![Top Performing Agents](./Screenshots/top-perform.png)
 
 Agent performance summary:
 - Top agents ranked by sales and upsells
